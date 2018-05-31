@@ -5,8 +5,8 @@
 				<div class="titulo-1">
 					<img src="src/img/ico-maiores.svg" width="8%" class="img-responsive">
 					<h2>
-					Maiores Pontuadores <br>
-					<span>Por Desafio</span>
+					Maiores Guerreiros <br>
+					<span>Por Disciplina</span>
 					</h2>
 				</div>
 				<div class="row">
@@ -21,7 +21,7 @@
 											<h3>Órgão/Banca</h3>
 										</div>
 										<div class="col-xs-4">
-											<h4>Jogador1</h4>
+											<h4>Guerreiro 1</h4>
 										</div>
 										<div class="col-xs-4">
 											<a href="">100 pts</a>
@@ -37,7 +37,7 @@
 											<h3>Órgão/Banca</h3>
 										</div>
 										<div class="col-xs-4">
-											<h4>Jogador1</h4>
+											<h4>Guerreiro 1</h4>
 										</div>
 										<div class="col-xs-4">
 											<a href="">100 pts</a>
@@ -53,7 +53,7 @@
 											<h3>Órgão/Banca</h3>
 										</div>
 										<div class="col-xs-4">
-											<h4>Jogador1</h4>
+											<h4>Guerreiro 1</h4>
 										</div>
 										<div class="col-xs-4">
 											<a href="">100 pts</a>
@@ -69,7 +69,7 @@
 											<h3>Órgão/Banca</h3>
 										</div>
 										<div class="col-xs-4">
-											<h4>Jogador1</h4>
+											<h4>Guerreiro 1</h4>
 										</div>
 										<div class="col-xs-4">
 											<a href="">100 pts</a>
@@ -85,7 +85,7 @@
 											<h3>Órgão/Banca</h3>
 										</div>
 										<div class="col-xs-4">
-											<h4>Jogador1</h4>
+											<h4>Guerreiro 1</h4>
 										</div>
 										<div class="col-xs-4">
 											<a href="">100 pts</a>
@@ -101,7 +101,7 @@
 											<h3>Órgão/Banca</h3>
 										</div>
 										<div class="col-xs-4">
-											<h4>Jogador1</h4>
+											<h4>Guerreiro 1</h4>
 										</div>
 										<div class="col-xs-4">
 											<a href="">100 pts</a>
@@ -117,7 +117,7 @@
 											<h3>Órgão/Banca</h3>
 										</div>
 										<div class="col-xs-4">
-											<h4>Jogador1</h4>
+											<h4>Guerreiro 1</h4>
 										</div>
 										<div class="col-xs-4">
 											<a href="">100 pts</a>
@@ -133,7 +133,7 @@
 											<h3>Órgão/Banca</h3>
 										</div>
 										<div class="col-xs-4">
-											<h4>Jogador1</h4>
+											<h4>Guerreiro 1</h4>
 										</div>
 										<div class="col-xs-4">
 											<a href="">100 pts</a>
@@ -149,7 +149,7 @@
 											<h3>Órgão/Banca</h3>
 										</div>
 										<div class="col-xs-4">
-											<h4>Jogador1</h4>
+											<h4>Guerreiro 1</h4>
 										</div>
 										<div class="col-xs-4">
 											<a href="">100 pts</a>
@@ -165,7 +165,7 @@
 											<h3>Órgão/Banca</h3>
 										</div>
 										<div class="col-xs-4">
-											<h4>Jogador1</h4>
+											<h4>Guerreiro 1</h4>
 										</div>
 										<div class="col-xs-4">
 											<a href="">100 pts</a>

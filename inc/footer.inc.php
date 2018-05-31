@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-2">
-				<img src="src/img/logo-footer.svg" alt="" class="img-responsive">
+				<img src="src/img/logo.svg" alt="" class="img-responsive">
 			</div>
 			<div class="col-sm-5">
 				<p>Copyright 2017 Todos os direitos reservados</p>
